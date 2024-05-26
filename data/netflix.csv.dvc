@@ -1,0 +1,5 @@
+outs:
+- md5: b639ab6988983dc134ec16ac05cc0614
+  size: 171211
+  hash: md5
+  path: netflix.csv
